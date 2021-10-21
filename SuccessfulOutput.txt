@@ -1,0 +1,19 @@
+# Output from Successful Script Run
+
+There are 4 Vulnerable Clients!
+Client: 58
+Secret: 76db555888e87b2c10469465d915227e698ab76d
+___
+Client: 3333
+Secret: 1f6ccd2be75f1cc94a22a773eea8f8aeb5c68217
+___
+Client: 40001
+Secret: e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4
+___
+Client: 50000
+Secret: 17bfab9228b6064e555c408e6372332e93a0a33a
+___
+System Performance:
+Start Time: 2021-10-20T21:20:15.099054-05:00[America/Chicago]
+End Time: 2021-10-20T21:24:16.664512-05:00[America/Chicago]
+Elapsed Seconds: 241
